@@ -1,6 +1,6 @@
 # TODO List using HTML, CSS, and JS
 
-A simple todolist app with a dashing design. It allows users to add, check, remove, and filter tasks. this app also available in [React.js](https://github.com/chiragpgauswami/todo-list) and [Vue.js](https://github.com/chiragpgauswami/todo-list).
+A simple todolist app with a dashing design. It allows users to add, check, remove, and filter tasks. this app also available in [React.js](https://github.com/chiragpgauswami/react-todo-list) and [Vue.js](https://github.com/chiragpgauswami/vue-todo-list).
 
 ![TODO List](Demo.gif)
 
